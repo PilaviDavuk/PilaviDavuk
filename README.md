@@ -1,5 +1,5 @@
  - 👋 Hi, I’m PilavlıDavuk
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning css, php, js, arduino, html
+- 🌱 I’m currently learning css, js, html
 - 💞️ I’m looking to collaborate on web development and mobile aplucation
 - 📫 How to reach me no now
